@@ -1,5 +1,12 @@
 # Revenue-Insights-Hospitality-Domain
 
+
+**Dashboard**
+
+
+![image](https://user-images.githubusercontent.com/72925437/233763146-ffcdbccf-5477-40c0-b544-edada1ff0e7b.png)
+
+
 ## About the project
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category.
 
@@ -42,12 +49,4 @@ The team also generated a dashboard to provide insights to the revenue team in t
 Based on these insights, AtliQ's revenue management team can make data-driven decisions 
 to optimize revenue and occupancy rates. They can focus on promoting luxury hotels, 
 particularly in Mumbai, and target Make My Trip users for booking. They can also consider 
-adjusting prices to attract more guests during low occupancy periods, such as weekdays and the month of June
-
-
-
-**Dashboard**
-
-
-![image](https://user-images.githubusercontent.com/72925437/233763118-5d994dcf-f7a0-43ce-a610-81e54901bf1d.png)
-
+adjusting prices to attract more guests during low occupancy periods, such as weekdays and the month of June.
